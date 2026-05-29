@@ -1,6 +1,6 @@
 # Smartphone-Based Fall Detection
 
-This project is a prototype for smartphone-based fall detection using IMU sensor data. The system is designed to process Sensor Logger ZIP files, extract motion data, and display fall detection results in a Streamlit web application.
+This project is a prototype for smartphone-based fall detection using IMU sensor data. The system is designed to process Sensor Logger ZIP files, extract motion data, and display fall detection results in a Streamlit web application (https://c-team-ml4b-fall-detection.streamlit.app).
 
 ## Project Goal
 
